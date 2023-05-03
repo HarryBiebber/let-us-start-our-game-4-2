@@ -2,3 +2,5 @@ this is a tset
 the second test
 实践出真
 指针是怎么定的 如何修改
+no pains no gains
+ZZZ
